@@ -1,0 +1,7 @@
+#map {
+    width: 100%; /* Set the width to 100% of the parent container */
+    height: 650px; /* Set the height to your desired value */
+    border: 1px solid #ccc; /* Add a border */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a box shadow */
+}
+
